@@ -11,7 +11,7 @@ There are three main files to this process which outline the approach to my firs
 
 2. The second file, [Feature Engineering](https://github.com/patricknieto/Airbnb_classification/blob/master/session_ft_eng.py), details the steps I took to incorporate the external datasets, manipulate them, and include them as features in my main dataset. 
 
-3. Lastly, [here](https://github.com/patricknieto/Airbnb_classification/blob/master/TestAirbnb.py) is an example of just one of the appraoches I took to machine learning. I ran a Gradient Boosting classifier to make my predictions and determine the important features.
+3. Lastly, [here](https://github.com/patricknieto/Airbnb_classification/blob/master/TestAirbnb.py) is an example of just one of the approaches I took to machine learning. I ran a Gradient Boosting classifier to make my predictions and determine the important features.
 
 Feel free to contact me through github or email with any questions. Thanks for dropping by!
 
